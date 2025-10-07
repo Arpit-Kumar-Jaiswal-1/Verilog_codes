@@ -1,0 +1,239 @@
+$date
+	Tue Sep 23 09:21:57 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_decoder $end
+$var wire 16 ! y [0:15] $end
+$var reg 4 " a [3:0] $end
+$var reg 1 # en $end
+$var integer 32 $ i [31:0] $end
+$scope module uut $end
+$var wire 1 # En $end
+$var wire 4 % W [3:0] $end
+$var wire 16 & Y [0:15] $end
+$var wire 8 ' y1 [0:7] $end
+$var wire 8 ( y0 [0:7] $end
+$var wire 1 ) y $end
+$scope module m $end
+$var wire 1 * En $end
+$var wire 3 + W [2:0] $end
+$var reg 8 , Y [0:7] $end
+$var integer 32 - k [31:0] $end
+$upscope $end
+$scope module m1 $end
+$var wire 1 . En $end
+$var wire 3 / W [2:0] $end
+$var reg 8 0 Y [0:7] $end
+$var integer 32 1 k [31:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b1000 1
+b0 0
+b0 /
+0.
+b1000 -
+b0 ,
+b0 +
+0*
+0)
+b0 (
+b0 '
+bz &
+b0 %
+bx $
+0#
+b0 "
+bz !
+$end
+#10000
+b1000 -
+b1000 1
+b10 +
+b10 /
+b1010 "
+b1010 %
+#20000
+b10000000 (
+b10000000 ,
+1*
+b1000 -
+b0 '
+b0 0
+b1000 1
+b0 +
+b0 /
+0.
+b0 "
+b0 %
+b0 $
+1#
+#30000
+b1000000 (
+b1000000 ,
+b1000 -
+b1000 1
+b1 +
+b1 /
+b1 "
+b1 %
+b1 $
+#40000
+b100000 (
+b100000 ,
+b1000 -
+b1000 1
+b10 +
+b10 /
+b10 "
+b10 %
+b10 $
+#50000
+b10000 (
+b10000 ,
+b1000 -
+b1000 1
+b11 +
+b11 /
+b11 "
+b11 %
+b11 $
+#60000
+b1000 (
+b1000 ,
+b1000 -
+b1000 1
+b100 +
+b100 /
+b100 "
+b100 %
+b100 $
+#70000
+b100 (
+b100 ,
+b1000 -
+b1000 1
+b101 +
+b101 /
+b101 "
+b101 %
+b101 $
+#80000
+b10 (
+b10 ,
+b1000 -
+b1000 1
+b110 +
+b110 /
+b110 "
+b110 %
+b110 $
+#90000
+1)
+b1 (
+b1 ,
+b1000 -
+b1000 1
+b111 +
+b111 /
+b111 "
+b111 %
+b111 $
+#100000
+0)
+0*
+b0 (
+b0 ,
+b1000 -
+b10000000 '
+b10000000 0
+b1000 1
+1.
+b0 +
+b0 /
+b1000 "
+b1000 %
+b1000 $
+#110000
+b1000 -
+b1000000 '
+b1000000 0
+b1000 1
+b1 +
+b1 /
+b1001 "
+b1001 %
+b1001 $
+#120000
+b1000 -
+b100000 '
+b100000 0
+b1000 1
+b10 +
+b10 /
+b1010 "
+b1010 %
+b1010 $
+#130000
+b1000 -
+b10000 '
+b10000 0
+b1000 1
+b11 +
+b11 /
+b1011 "
+b1011 %
+b1011 $
+#140000
+b1000 -
+b1000 '
+b1000 0
+b1000 1
+b100 +
+b100 /
+b1100 "
+b1100 %
+b1100 $
+#150000
+b1000 -
+b100 '
+b100 0
+b1000 1
+b101 +
+b101 /
+b1101 "
+b1101 %
+b1101 $
+#160000
+b1000 -
+b10 '
+b10 0
+b1000 1
+b110 +
+b110 /
+b1110 "
+b1110 %
+b1110 $
+#170000
+b1000 -
+b1 '
+b1 0
+b1000 1
+b111 +
+b111 /
+b1111 "
+b1111 %
+b1111 $
+#180000
+b10000 $
